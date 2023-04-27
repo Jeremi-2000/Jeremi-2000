@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### hello
-### 🔭 I’m currently working on visual tudio code
+### 🔭 I’m currently working on visual studio code
 
 <!--
 **Jeremi-2000/Jeremi-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
